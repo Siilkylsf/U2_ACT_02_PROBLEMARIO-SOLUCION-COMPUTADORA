@@ -34,7 +34,7 @@ Tecnológico Nacional de México
 ## Asignatura
 - Diseño de Elementos Mecanicos
 - Profesor: Rafael Valenzuela Rodriguez
-Actividad:
+- Actividad:
 U2 – Problemario Solución por Computadora
 ## Licencia
 MIT License
