@@ -2,8 +2,8 @@
 
 # Cálculo de Esfuerzos y Factor de Diseño en Ejes Rotatorios
 ## Descripción del proyecto
-Este repositorio contiene el desarrollo de un algoritmo en Python para el análisis de esfuerzos y cálculos
-El programa permite resolver los casos planteados en la actividad U2 – Problemario Solución por Computad## Características del programa
+Este repositorio contiene el desarrollo de un algoritmo en Python para el análisis de esfuerzos y cálculos. El programa permite resolver los casos planteados en la actividad U2_ACT_02_PROBLEMARIO SOLUCIÓN COMPUTADORA
+Características del programa
 - Cálculo de sensibilidad a la muesca
 - Factores de concentración de esfuerzo
 - Esfuerzos normales y cortantes (medios y alternantes)
