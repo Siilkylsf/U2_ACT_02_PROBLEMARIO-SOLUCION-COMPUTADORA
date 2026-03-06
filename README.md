@@ -16,15 +16,14 @@ Este repositorio contiene el desarrollo de un algoritmo en Python para el análi
 ## Estructura del repositorio
 /repositorio
 ■
-■■■ main.py
-■■■ funciones_calculo.py
-■■■ README.md
-■■■ casos_ejemplo.txt
+- CODIGO.py
+- CAPTURA 1
+- CAPTURA 2
+- CAPTURA 3
+-README.md
 ## Uso del programa
-1. Clonar repositorio
-git clone https://github.com/usuario/repositorio.git
-2. Ejecutar
-python main.py
+Ejecutar
+CODIGO.py
 ## Autores
 ESTUDIANTES DE INGENIERÍA MECATRONICA
 - Gonzáles Baustista José Alberto
