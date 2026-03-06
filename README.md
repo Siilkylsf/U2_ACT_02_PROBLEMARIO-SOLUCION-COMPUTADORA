@@ -32,8 +32,8 @@ Ovando Ruiz Salvador Armando.
 Instituto Tecnológico Superior de Comalcalco, 
 Tecnológico Nacional de México
 ## Asignatura
-Diseño de Elementos Mecanicos
-Profesor: Rafael Valenzuela Rodriguez
+- Diseño de Elementos Mecanicos
+- Profesor: Rafael Valenzuela Rodriguez
 Actividad:
 U2 – Problemario Solución por Computadora
 ## Licencia
