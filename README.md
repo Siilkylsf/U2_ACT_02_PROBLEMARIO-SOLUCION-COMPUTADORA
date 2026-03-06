@@ -8,7 +8,6 @@ Este repositorio contiene el desarrollo de un algoritmo en Python para el análi
 - Factores de concentración de esfuerzo
 - Esfuerzos normales y cortantes (medios y alternantes)
 - Esfuerzos equivalentes de Von Mises
-- dfafafasd
 - Factores de diseño usando criterios Goodman, Soderberg, Gerber y ASME
 ## Tecnologías utilizadas
 - Python 3.14
