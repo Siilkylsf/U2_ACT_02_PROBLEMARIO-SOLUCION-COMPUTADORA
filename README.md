@@ -10,9 +10,7 @@ Este repositorio contiene el desarrollo de un algoritmo en Python para el análi
 - Esfuerzos equivalentes de Von Mises
 - Factores de diseño usando criterios Goodman, Soderberg, Gerber y ASME
 ## Tecnologías utilizadas
-- Python 3
-- numpy
-- math
+- Python 3.14
 ## Estructura del repositorio
 /U2_ACT_02_PROBLEMARIO-SOLUCION-COMPUTADORA
 
