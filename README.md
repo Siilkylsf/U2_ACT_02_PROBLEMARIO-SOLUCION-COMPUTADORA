@@ -14,8 +14,9 @@ Este repositorio contiene el desarrollo de un algoritmo en Python para el análi
 - numpy
 - math
 ## Estructura del repositorio
-/repositorio
-■
+/repositorio U2_ACT_02_PROBLEMARIO-SOLUCION-COMPUTADORA
+
+
 - CODIGO.py
 - CAPTURA 1
 - CAPTURA 2
